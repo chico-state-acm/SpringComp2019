@@ -16,7 +16,7 @@ function handle() {
 <style>
 main {
     margin: auto;
-    width: 80ch;
+    max-width: 80ch;
 }
 </style>
 </head>
@@ -33,7 +33,7 @@ EOD
 }
 
 # doesn't handle Wacky Filenames, not my problem
-rm -r _site
+rm -r _site/*
 handle README.md _site
 cd problems
 find . -name '*.md' | while read X; do
