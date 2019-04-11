@@ -1,10 +1,6 @@
 # Three Value Sum
 
----
-
 Given an array of integers, and an integer __*k*__, count how many ways you can choose three distinct integers from the array, such that the sum of three integers is equal to __*k*__.
-
----
 
 ## Input Format
 
@@ -20,15 +16,15 @@ The second line contains __*N*__ space-separated integers, representing values i
 
 ## Output Format
 
-Print a single integer, representing the number of different three-value combinations sum to equal __*k*__.
+Print a single integer, representing the number of different three-value combinations which sum to equal __*k*__.
 
-### Sample Input
+## Sample Input
 ```
 6 10
 3 5 11 2 4 1
 ```
 
-### Sample Output
+## Sample Output
 ```
 2
 ```
