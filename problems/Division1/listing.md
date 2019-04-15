@@ -10,3 +10,4 @@
 1. [Server Farm](/ServerFarm)
 1. [Persistent Numbers](/Persistent)
 1. [Max Length Chain](/MaxLengthChain)
+1. [Even Palindrome](/EvenPalindrome)
