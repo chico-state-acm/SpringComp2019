@@ -2,7 +2,7 @@
 
 You are a programmer working on a solar system probe network. It is able to communicate large chunks of scientific data over vast distances, but is limited by the relative movement of the planets. The orbital mechanics team has calculated a schedule of how much data the involved satellites will be able to communicate with each other per week, over the course of the next mission cycle. You have been tasked with calculating how much total data the network could ship from the outer reaches to Earth over the course of the mission cycle, given the connectivity schedule.
 
-Because of speed-of-light delay, satellite-to-satellite links are not necessarily symmetric. Satellites can be considered to have unlimited storage capacity.
+Because of speed-of-light delay, satellite-to-satellite links are not necessarily symmetric. Satellites can be considered to have unlimited storage capacity. Data transmission is discrete: if a satellite receives data during one week of the mission, it cannot relay it until the next week.
 
 ## Input Format
 
@@ -31,6 +31,8 @@ Print the total number of terabytes which can be transferred from the last node 
 0 3 6 0 4
 0 7 0 12 0
 </pre>
+
+![_](graph.png)
 
 ## Sample Output
 <pre>
