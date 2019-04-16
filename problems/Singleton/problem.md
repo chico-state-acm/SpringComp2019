@@ -18,12 +18,12 @@ The second line contains __*n*__ space-separated integers, the elements in the a
 Output the value that occurs in the array only once, followed by a newline.
 
 ## Sample Input
-```
+<pre>
 11
 1 2 3 4 5 6 1 2 3 4 5
-```
+</pre>
 
 ## Sample Output
-```
+<pre>
 6
-```
+</pre>

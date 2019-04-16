@@ -21,12 +21,12 @@ One integer, __*N*__.
 One line containing the smallest number __*X*__ whose Persistence is __*N*__.
 
 ## Sample Input
-```
+<pre>
 1
-```
+</pre>
 
 ## Sample Output
-```
+<pre>
 10
-```
+</pre>
 

@@ -17,12 +17,12 @@ The second line contains __*N*__ space-separated integers, the server numbers on
 Print the input list with any duplicates removed, followed by a newline.
 
 ## Sample Input
-```
+<pre>
 10
 5 2 10 9 5 10 11 20 1 100
-```
+</pre>
 
 ## Sample Output
-```
+<pre>
 5 2 10 9 11 20 1 100
-```
+</pre>

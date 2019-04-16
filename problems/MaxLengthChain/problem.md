@@ -22,15 +22,15 @@ The next __*N*__ lines each contain two integers, __*a*__ and __*b*__ denoting t
 Print a single integer, representing the number of pairs in the maximal length pair chain, followed by a newline.
 
 ## Sample Input
-```
+<pre>
 4
 652 755
 400 933
 61 677
 369 740
-```
+</pre>
 
 ## Sample Output
-```
+<pre>
 1
-```
+</pre>

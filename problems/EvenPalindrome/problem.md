@@ -18,11 +18,11 @@ The first line contains __*S*__, the string to search for palindromes.
 If __*S*__ contains an even length palindrome, print the string "yes" followed by a newline. Otherwise print "no" followed by a newline.
 
 ## Sample Input
-```
+<pre>
 abmomxy
-```
+</pre>
 
 ## Sample Output
-```
+<pre>
 no
-```
+</pre>

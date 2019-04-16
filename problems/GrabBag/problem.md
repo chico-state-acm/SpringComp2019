@@ -16,11 +16,11 @@ The first line contains two integers, __*r*__ and __*b*__, the number of red and
 Print the percent chance that Joel wins the game, precise to 5 decimal places, followed by a newline.
 
 ## Sample Input
-```
+<pre>
 3 1
-```
+</pre>
 
 ## Sample Output
-```
+<pre>
 25.00000
-```
+</pre>

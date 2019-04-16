@@ -18,12 +18,12 @@ The second line contains __*n*__ space-separated intergers, the elements in the 
 The value of the second largest element in the array, followed by a newline.
 
 ## Sample Input
-```
+<pre>
 10
 9 3 7 1 2 2 0 1 4 5
-```
+</pre>
 
 ## Sample Output
-```
+<pre>
 7
-```
+</pre>

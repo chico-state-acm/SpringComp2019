@@ -23,11 +23,11 @@ The next N lines contain N integers each and form a grid __*G*__. Each entry at 
 Print the total number of terabytes which can be transferred from the last node (N) at the beginning of the mission cycle to the first node (1) at the end of the mission cycle, utilizing as much available capacity as possible.
 
 ## Sample Input
-```
+<pre>
 ...
-```
+</pre>
 
 ## Sample Output
-```
+<pre>
 ...
-```
+</pre>

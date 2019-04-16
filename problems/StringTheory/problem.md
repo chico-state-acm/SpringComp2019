@@ -18,12 +18,12 @@ The second line contains __*S<sub>2</sub>*__, the shorter string.
 If __*S<sub>2</sub>*__ occurs anywhere in __*S<sub>1</sub>*__, print the string "Yes" followed by a newline. If __*S<sub>2</sub>*__ does not occur anywhere in __*S<sub>1</sub>*__, print the string "No" followed by a newline.
 
 ## Sample Input
-```
+<pre>
 helloworld
 ell
-```
+</pre>
 
 ## Sample Output
-```
+<pre>
 Yes
-```
+</pre>

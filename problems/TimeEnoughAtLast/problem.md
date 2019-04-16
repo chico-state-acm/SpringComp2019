@@ -21,13 +21,13 @@ If Jamie can finish before sunset, print the string "Yes" followed by a newline.
 If Jamie cannot finish before sunset, print the string "No" followed by a newline.
 
 ## Sample Input
-```
+<pre>
 5
 200
 20
-```
+</pre>
 
 ## Sample Output
-```
+<pre>
 No
-```
+</pre>

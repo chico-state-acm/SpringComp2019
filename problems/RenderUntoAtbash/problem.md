@@ -19,12 +19,12 @@ The second line contains the input string __*S*__.
 Print the string resulting from ciphering the input string, followed by a newline.
 
 ## Sample Input
-```
+<pre>
 10
 HelloWorld
-```
+</pre>
 
 ## Sample Output
-```
+<pre>
 SvoolDliow
-```
+</pre>

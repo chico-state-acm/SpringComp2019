@@ -19,12 +19,12 @@ The second line contains __*N*__ space-separated integers, representing values i
 Print a single integer, representing the number of different three-value combinations which sum to equal __*k*__.
 
 ## Sample Input
-```
+<pre>
 6 10
 3 5 11 2 4 1
-```
+</pre>
 
 ## Sample Output
-```
+<pre>
 2
-```
+</pre>
