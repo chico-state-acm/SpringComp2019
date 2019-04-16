@@ -24,10 +24,15 @@ Print the total number of terabytes which can be transferred from the last node 
 
 ## Sample Input
 <pre>
-...
+5 5
+0 4 6 0 0
+8 0 5 0 0
+9 0 0 10 0
+0 3 6 0 4
+0 7 0 12 0
 </pre>
 
 ## Sample Output
 <pre>
-...
+53
 </pre>
