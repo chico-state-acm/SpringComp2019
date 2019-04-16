@@ -19,7 +19,7 @@ Input:
 11 1 5  
 8 4 12 2 6 10 13 1 3 5 7 9 11
 
-![image]()
+![ ](graph.png)
 
 Result:  
 4
