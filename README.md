@@ -1,2 +1,5 @@
-# SpringComp2019
-Repo for Spring 2019 Problems
+# ACM Spring Competition 2019
+
+* [Division One](./DivisionOne) (Completed 311)
+* [Division Two](./DivisionTwo) (Not yet completed 311)
+
