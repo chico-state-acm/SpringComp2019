@@ -2,7 +2,7 @@
 
 A palindrome is string of characters which,when reversed, produces the same string as the original. For example "mom" is an example of a palindrome.
 
-Given a stringi __*S*__, determine if any even length substrings of __*S*__ are palindromes.
+Given a string __*S*__, determine if any even length substrings of __*S*__ are palindromes.
 
 ## Input Format
 
