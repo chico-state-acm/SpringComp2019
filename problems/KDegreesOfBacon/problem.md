@@ -20,13 +20,13 @@ Note:
 
 Print the double corresponding to the input temperature converted to Fahrenheit and accurate to 2 places past the decimal point, followed by a newline.
 
-### Sample Input
+## Sample Input
 <pre>
 400.0
 K
 </pre>
 
-### Sample Output
+## Sample Output
 <pre>
 260.33
 </pre>
