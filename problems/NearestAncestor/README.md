@@ -17,7 +17,7 @@ The output should be one integer, the value of the node in the tree which is an 
 
 ## Constraints
 
-* 1 <= **n** <= 100.
+* 1 <= **n** <= 10<sup>5</sup>.
 * **i** and **j** are in the tree.
 
 ## Sample Input
