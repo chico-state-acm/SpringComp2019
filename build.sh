@@ -17,6 +17,10 @@ function handle() {
 main {
     margin: auto;
     max-width: 80ch;
+    margin-bottom: 2rem;
+}
+pre {
+    font-size: 14px;
 }
 </style>
 </head>
