@@ -23,7 +23,7 @@ The output should be one integer, the value of the node in the tree which is an 
 ## Sample Input
 <pre>
 11 1 5  
-8 4 12 2 6 10 13 1 3 5 7 9 11
+8 4 10 2 6 9 11 1 3 5 7
 </pre>
 
 ![ ](graph.png)
