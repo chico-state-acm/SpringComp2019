@@ -1,7 +1,5 @@
 # Max Length Chain
 
----
-
 For this problem, we use pairs of numbers (a, b), where a < b. We would like to form a chain of pairs such that if a pair (c, d) follows another pair (a, b), then b < c.
 
 Given a set of __*N*__ pairs, find the length of the longest chain that can be formed following the condition above.
