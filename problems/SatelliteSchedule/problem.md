@@ -15,8 +15,9 @@ The next N lines contain N integers each and form a grid __*G*__. Each entry at 
 
 ## Constraints 
 
-* 1 <= __*N*__, __*M*__ <= 20
-* 1 <= __*G[i][j]*__ <= 1000
+* 1 <= __*M*__ <= 20
+* 2 <= __*N*__ <= 20
+* 0 <= __*G[i][j]*__ <= 1000
 
 ## Output Format
 
