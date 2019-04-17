@@ -4,7 +4,7 @@ Bethany is in charge of her company's small server farm, but she has a problem. 
 
 ## Input Format
 
-The first line contain a single integer __*N*__, denoting the number of entries on the list.
+The first line contains a single integer __*N*__, denoting the number of entries on the list.
 The second line contains __*N*__ space-separated integers, the server numbers on Bethany's list.
 
 ## Constraints

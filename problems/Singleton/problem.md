@@ -1,6 +1,6 @@
 # Singleton
 
-Given a unordered array of integers, and the knowledge that all but one value appearing in the array does so exactly twice, find and print the value in the array which occurs only once.
+Given an unordered array of integers, and knowing that every value in the array appears exactly twice except for one, find and print the value in the array which occurs only once.
 
 ## Input Format
 

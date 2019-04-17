@@ -9,9 +9,9 @@ The second line contains __*S<sub>2</sub>*__, the shorter string.
 
 ## Constraints
 
-- 2 <= __*S<sub>1</sub>.size*__ <= 100000
-- 1 <= __*S<sub>2</sub>.size*__ <= __*S<sub>1</sub>.size*__
-- Both strings only contain lower case letters, i.e. 'a' through 'z'.
+- 2 <= __*S<sub>1</sub>.length*__ <= 100000
+- 1 <= __*S<sub>2</sub>.length*__ <= __*S<sub>1</sub>.length*__
+- Both strings only contain lowercase letters, i.e. 'a' through 'z'.
 
 ## Output Format
 

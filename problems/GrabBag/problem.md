@@ -1,10 +1,10 @@
 # Grab Bag
 
-Joel and Amy are playing a game of chance. They start with a bag containing __*r*__ red marbles, and __*b*__ black marbles. Both take turns drawing a single marble from the bag and discarding it, beginning with Joel. If the player draws a red marble, they imediatly lose the game and the other player is deemed the winner. If the player draws a black marble, the game continues with the other persons turn. The marbles are *not* returned to the bag after being drawn. Given the number of red and black marbles starting in the bag, what are the odds the Joel wins the game. 
+Joel and Amy are playing a game of chance. They start with a bag containing __*r*__ red marbles, and __*b*__ black marbles. Both take turns drawing a single marble from the bag and discarding it, beginning with Joel. If the player draws a red marble, they immediately lose the game and the other player is deemed the winner. If the player draws a black marble, the game continues with the other player's turn. The marbles are *not* returned to the bag after being drawn. Given the number of red and black marbles starting in the bag, what are the odds the Joel wins the game.
 
 ## Input Format
 
-The first line contains two integers, __*r*__ and __*b*__, the number of red and black marbles respectivly.
+The first line contains two integers, __*r*__ and __*b*__, the number of red and black marbles respectively.
 
 ## Constraints
 

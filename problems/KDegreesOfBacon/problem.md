@@ -1,6 +1,6 @@
 # K Degrees Of Bacon
 
-Billy is trying to cook up a delicious breakfast before school, but the he can't figure out the instructions. The temperatures written on the box are in all different scales. Help Billy by writing a program that takes in a temperature, and the scale it uses, and outputs the equivalent temperature in Fahrenheit.
+Billy is trying to cook up a delicious breakfast before school, but he can't figure out the instructions. The temperatures written on the box are in all different scales. Help Billy by writing a program that takes in a temperature, and the scale it uses, and outputs the equivalent temperature in Fahrenheit.
 
 Note:
 

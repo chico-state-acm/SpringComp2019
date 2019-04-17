@@ -1,6 +1,6 @@
 # Three Value Sum
 
-Given an array of integers, and an integer __*k*__, count how many ways you can choose three distinct integers from the array, such that the sum of three integers is equal to __*k*__.
+Given an array of integers, and an integer __*k*__, count how many ways you can choose three distinct integers from the array, such that the sum of the three integers is equal to __*k*__.
 
 ## Input Format
 

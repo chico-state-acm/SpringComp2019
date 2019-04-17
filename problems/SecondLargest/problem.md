@@ -6,7 +6,7 @@ Given an unordered array of integers, find and print the second largest number i
 
 The first line contains __*n*__, the number of elements in the array.
 
-The second line contains __*n*__ space-separated intergers, the elements in the array.
+The second line contains __*n*__ space-separated integers, the elements in the array.
 
 ## Constraints
 
