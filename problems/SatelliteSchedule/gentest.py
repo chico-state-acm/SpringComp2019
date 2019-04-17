@@ -2,7 +2,7 @@
 
 import random
 
-N = random.randint(1, 20)
+N = random.randint(2, 20)
 M = random.randint(1, 20)
 matrix = [[0 for _ in range(N)] for _ in range(N)]
 
