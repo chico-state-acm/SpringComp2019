@@ -15,7 +15,7 @@ Given a number __*N*__, find the smallest number __*X*__ whose Persistence is __
 One integer, __*N*__.
 
 ## Constraints
-* 0 < __*N*__ < 11
+* 0 <= __*N*__ <= 9
 
 ## Output Format
 One line containing the smallest number __*X*__ whose Persistence is __*N*__.
